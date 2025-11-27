@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="earth" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="earth" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="hydroagent" project-jdk-type="Python SDK" />
 </project>
